@@ -1,1 +1,3 @@
-# We are at Innovation Talk
+# One Click Branch Promotion
+
+Switch content to ***live*** with one config change.
