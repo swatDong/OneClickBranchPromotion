@@ -1,3 +1,3 @@
-# One Click Branch Promotion
+# One-Click Branch Promotion
 
-Switch content to ***live*** with one config change.
+A quick approach to go live content at *Big Day*.
