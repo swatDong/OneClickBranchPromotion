@@ -1,7 +1,6 @@
 ---
 f1_keywords:
   - "public"
-  - 
 ---
 # One-Click Branch Promotion
 
